@@ -1,2 +1,2 @@
 # practice_git
-Update develop 5
+Update 2
