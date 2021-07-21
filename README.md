@@ -1,2 +1,2 @@
 # practice_git
-Update 1
+Update 2
